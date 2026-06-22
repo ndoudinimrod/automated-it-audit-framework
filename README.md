@@ -69,18 +69,13 @@ La plateforme évalue la maturité des contrôles informatiques, calcule les sco
 ## 📋 Réglementations couvertes
 
 
-
 | Référentiel |             Domaine                 |
-
-|-------------|-------------------------------------|
-
+|--------|-------------|
 | ISO 27001   | Sécurité de l'information           |
-
 | ISO 42001   | Intelligence artificielle           |
-
 |     NIS2    | Cybersécurité UE                    |
-
 |     DORA    | Résilience opérationnelle (Finance) |
+|D'autres reglementations...|Divers secteurs (Santé,PME,Jurdiques, IT,Banques...)|
 
 
 
